@@ -1,5 +1,5 @@
-# Python-Generators-(yield)
-U-Tech Coding with Python for kids - Session 22
+Python-Generators
+U-Tech Advance Python with Data Science
 
 # What are Generators?
 Python generators are a simple way of creating iterators. All the work we mentioned above are automatically handled by generators in Python.
